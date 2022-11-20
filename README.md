@@ -1,8 +1,12 @@
 This README will present the project, the code and how to run it.
 
+This project was done in the context of a university assignment of the University of Chile on 2018.
+
 ## Tour Guide Robot
 
 This code programs a Tour Guide Lego Mindstorms prototype, which follows and remembers a path drawn by a black line in a white font. Then it is capable of repeating the same path without the drawn path.
+
+This is a prototype for tour guide robots that can lead tourists or visitors and give information about the place or expositions.
 
 The robot is composed of a Lego Mindstorms NXT Brick with two Light Sensors at the front and two Motors as wheels.
 
